@@ -15,3 +15,8 @@ Finally, he goes over Resilient Distributed Datasets (RDDs), the building blocks
 - Leveraging built-in Spark functions
 - Creating your own functions in Spark
 - Working with Resilient Distributed Datasets (RDDs)
+
+
+Certificate:
+
+![Certificate](https://raw.githubusercontent.com/kavyajeetbora/big-data-spark-linkedin/main/CertificateOfCompletion_Apache%20PySpark%20by%20Example%20(1)_1.jpg)
